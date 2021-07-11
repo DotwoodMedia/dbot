@@ -2,10 +2,10 @@
 An easy to use bot for your server! The bot contains: music, moderation and fun commands. You can start right away thanks to the easy setup
 
 ## What does Dbot contain?
-💻┆300+ commands
-🧹┆Clean systems
-⭐┆Good quality
-😛┆25+ features
+💻┆300+ commands <br>
+🧹┆Clean systems <br>
+⭐┆Good quality <br>
+😛┆25+ features <br>
 
 ## How do I start?
 [invite](https://discord.com/oauth2/authorize?client_id=798144456528363550&scope=bot&permissions=8&scope=applications.commands) Dbot to your server
